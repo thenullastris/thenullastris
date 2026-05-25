@@ -24,17 +24,22 @@
 
 ## `> whoami`
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Khin Phunnadet · @TheNullAstris · Phnom Penh, Cambodia     │
-│                                                             │
-│  Solo iOS developer, content creator, and Minecraft nerd.  │
-│  I build launchers, break configs, and post about it.       │
-│                                                             │
-│  Currently:  Zenith Launcher (iOS Minecraft Java Edition)  │
-│  Community:  RomdoulMC [Media rank]  ·  romdoulmc.vip       │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+![Name](https://img.shields.io/badge/Khin_Phunnadet-0d0d0d?style=for-the-badge&logoColor=white)
+![Location](https://img.shields.io/badge/Phnom_Penh,_Cambodia-CC2222?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+![Role](https://img.shields.io/badge/Solo_iOS_Developer-1a1a1a?style=for-the-badge&logo=apple&logoColor=white)
+![Role](https://img.shields.io/badge/Content_Creator-1a1a1a?style=for-the-badge&logo=tiktok&logoColor=white)
+![Role](https://img.shields.io/badge/Minecraft_Nerd-1a1a1a?style=for-the-badge&logo=creativecommons&logoColor=4a7c59)
+
+![Current](https://img.shields.io/badge/Currently_→_Zenith_Launcher-CC2222?style=flat-square&logo=apple&logoColor=white)
+![Community](https://img.shields.io/badge/RomdoulMC_[Media]-444444?style=flat-square&logoColor=white)
+
+> *Solo iOS developer, content creator, and Minecraft nerd.*
+> *I build launchers, break configs, and post about it.*
+
+</div>
 
 -----
 
@@ -56,15 +61,11 @@
 
 <div align="center">
 
-<!-- Languages -->
-
 ![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-<!-- Tools -->
 
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
