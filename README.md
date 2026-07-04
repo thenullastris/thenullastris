@@ -49,7 +49,7 @@
 
 |Project                                                                 |Description                                                                                                                                        |Stack                                 |
 |:----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|
-|🚀 **[Zenith Launcher](https://github.com/thenullastris/ZenithLauncher)**|iOS launcher for Minecraft: Java Edition — forked from PojavLauncher/Amethyst, rebuilt with custom UI, ely.by auth, and iOS 26 Liquid Glass support|`Objective-C` `UIKit` `GitHub Actions`|
+|🚀 **[Zenith Launcher](https://github.com/thenullastris/Zenith-Launcher)**|iOS launcher for Minecraft: Java Edition — forked from PojavLauncher/Amethyst, rebuilt with custom UI, ely.by auth, and iOS 26 Liquid Glass support|`Objective-C` `UIKit` `GitHub Actions`|
 |🌐 **[RomdoulMC Status](https://github.com/thenullastris)**              |SwiftUI companion app for RomdoulMC server status via mcsrvstat.us API                                                                             |`Swift` `SwiftUI`                     |
 |🔦 **BLINKER**                                                           |Minimal flashlight utility for iOS                                                                                                                 |`Swift` `SwiftUI`                     |
 
