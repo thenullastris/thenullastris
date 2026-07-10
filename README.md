@@ -3,12 +3,12 @@
 <!-- Animated header -->
 
 <a href="https://drevenant7.site">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a1a,100:0d0d0d&height=200&section=header&text=TheNullAstris&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=void%20%2F%2F%20code%20%2F%2F%20craft&descAlignY=58&descSize=18&descColor=888888&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a1a,100:0d0d0d&height=200&section=header&text=TheNullAstris&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=void%20by%20design" />
 </a>
 
 <!-- Typing SVG -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=CC2222&center=true&vCenter=true&width=500&lines=iOS+%2F+Mobile+Developer;Minecraft+Modder+%26+Content+Creator;Zenith+Launcher+Author;Hackintosh+Enthusiast;Based+in+Phnom+Penh%2C+Cambodia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=CC2222&center=true&vCenter=true&width=500&lines=iOS+%2F+Mobile+Developer;Minecraft+Modding;Launcher+Development;Open+Source+Contributor)](https://github.com/thenullastris)
 
 <br/>
 
@@ -47,11 +47,11 @@
 
 <div align="center">
 
-|Project                                                                 |Description                                                                                                                                        |Stack                                 |
-|:----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|
-|🚀 **[Zenith Launcher](https://github.com/thenullastris/Zenith-Launcher)**|iOS launcher for Minecraft: Java Edition — forked from PojavLauncher/Amethyst, rebuilt with custom UI, ely.by auth, and iOS 26 Liquid Glass support|`Objective-C` `UIKit` `GitHub Actions`|
-|🌐 **[RomdoulMC Status](https://github.com/thenullastris)**              |SwiftUI companion app for RomdoulMC server status via mcsrvstat.us API                                                                             |`Swift` `SwiftUI`                     |
-|🔦 **BLINKER**                                                           |Minimal flashlight utility for iOS                                                                                                                 |`Swift` `SwiftUI`                     |
+|Project                                                                 |Description                                                                                                               |
+|:----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+|🚀 **[Zenith Launcher](https://github.com/thenullastris/Zenith-Launcher)**|iOS launcher for Minecraft: Java Edition — forked from PojavLauncher/Amethyst, rebuilt with custom UI, ely.by auth, modern UX|
+|🌐 **[RomdoulMC Status](https://github.com/thenullastris)**              |SwiftUI companion app for RomdoulMC server status via mcsrvstat.us API                                                 |
+|🔦 **BLINKER**                                                           |Minimal flashlight utility for iOS                                                                                     |
 
 </div>
 
@@ -78,16 +78,30 @@
 
 -----
 
+## `> cat contributions.txt`
+
+<div align="center">
+
+**Open Source Contributions**
+
+<a href="https://hosted.weblate.org/engage/prismlauncher/"><img src="https://hosted.weblate.org/widget/prismlauncher/launcher/km/svg-badge.svg" alt="Prism Launcher Khmer (Central Language) Translation Status"></a>
+
+> Contributing Khmer language translations to [Prism Launcher](https://prismlauncher.org/)
+
+</div>
+
+-----
+
 ## `> gh stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thenullastris&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=CC2222&icon_color=CC2222&title_color=ffffff&text_color=888888&hide_border=false&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenullastris&layout=compact&theme=dark&bg_color=0d0d0d&border_color=CC2222&title_color=ffffff&text_color=888888&hide_border=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=thenullastris&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=CC2222&icon_color=CC2222&title_color=ffffff&text_color=888888&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenullastris&layout=compact&theme=dark&bg_color=0d0d0d&border_color=CC2222&title_color=ffffff&text_color=888888&hide_border=false" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=thenullastris&theme=dark&background=0d0d0d&border=CC2222&stroke=CC2222&ring=CC2222&fire=ff4444&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=666666" />
+<img src="https://streak-stats.demolab.com?user=thenullastris&theme=dark&background=0d0d0d&border=CC2222&stroke=CC2222&ring=CC2222&fire=ff4444&currStreakNum=ffffff&sideNums=888888&currStreakLabel=Current%20Streak&sideLabels=Longest%20Streak" />
 
 </div>
 
@@ -97,7 +111,7 @@
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thenullastris&bg_color=0d0d0d&color=CC2222&line=CC2222&point=ffffff&area=true&area_color=1a0505&hide_border=false&border_color=CC2222)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thenullastris&bg_color=0d0d0d&color=CC2222&line=CC2222&point=ffffff&area=true&area_color=1a0505&hide_border=false&custom_title=Contribution%20Activity)](https://github.com/thenullastris)
 
 </div>
 
