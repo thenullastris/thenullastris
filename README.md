@@ -1,121 +1,46 @@
 <div align="center">
 
-<!-- Animated header -->
+# TheNullAstris
 
-<a href="https://drevenant7.site">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a1a,100:0d0d0d&height=200&section=header&text=TheNullAstris&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=void%20by%20design" />
-</a>
+**iOS Developer · Minecraft Enthusiast · Creator**
 
-<!-- Typing SVG -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=CC2222&center=true&vCenter=true&width=500&lines=iOS+%2F+Mobile+Developer;Minecraft+Modding;Launcher+Development;Open+Source+Contributor)](https://github.com/thenullastris)
-
-<br/>
-
-<!-- Social badges -->
-
-[![TikTok](https://img.shields.io/badge/@TheNullAstris-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TheNullAstris)
-[![Website](https://img.shields.io/badge/drevenant7.site-0d0d0d?style=for-the-badge&logo=ghost&logoColor=CC2222)](https://drevenant7.site)
-[![GitHub](https://img.shields.io/badge/thenullastris-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thenullastris)
+[Website](https://drevenant7.site) · [TikTok](https://tiktok.com/@TheNullAstris) · [GitHub](https://github.com/thenullastris)
 
 </div>
 
------
+---
 
-## `> whoami`
+## About
 
-<div align="center">
+Solo iOS developer building mobile experiences. Focused on Minecraft launchers and innovative tooling. Based in **Phnom Penh, Cambodia**.
 
-![Name](https://img.shields.io/badge/Khin_Phunnadet-0d0d0d?style=for-the-badge&logoColor=white)
-![Location](https://img.shields.io/badge/Phnom_Penh,_Cambodia-CC2222?style=for-the-badge&logo=googlemaps&logoColor=white)
+> *I build launchers, break configs, and ship it all.*
 
-![Role](https://img.shields.io/badge/Solo_iOS_Developer-1a1a1a?style=for-the-badge&logo=apple&logoColor=white)
-![Role](https://img.shields.io/badge/Content_Creator-1a1a1a?style=for-the-badge&logo=tiktok&logoColor=white)
-![Role](https://img.shields.io/badge/Minecraft_Nerd-1a1a1a?style=for-the-badge&logo=creativecommons&logoColor=4a7c59)
+---
 
-![Current](https://img.shields.io/badge/Currently_→_Zenith_Launcher-CC2222?style=flat-square&logo=apple&logoColor=white)
-![Community](https://img.shields.io/badge/RomdoulMC_[Media]-444444?style=flat-square&logoColor=white)
+## Projects
 
-> *Solo iOS developer, content creator, and Minecraft nerd.*
-> *I build launchers, break configs, and post about it.*
+| Project | Tech | Status |
+|---------|------|--------|
+| **[Zenith Launcher](https://github.com/thenullastris/Zenith-Launcher)** | Swift, SwiftUI | 🚀 Active |
+| **RomdoulMC Status** | Swift, SwiftUI | Companion app |
+| **BLINKER** | Swift | Minimal flashlight |
 
-</div>
+---
 
------
+## Tech Stack
 
-## `> ls projects/`
+**Languages:** Swift · Objective-C · Java · Python · C++
 
-<div align="center">
+**Tools:** Xcode · GitHub Actions · Figma · Linux · Arduino
 
-|Project                                                                 |Description                                                                                                               |
-|:----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-|🚀 **[Zenith Launcher](https://github.com/thenullastris/Zenith-Launcher)**|iOS launcher for Minecraft: Java Edition — forked from PojavLauncher/Amethyst, rebuilt with custom UI, ely.by auth, modern UX|
-|🌐 **[RomdoulMC Status](https://github.com/thenullastris)**              |SwiftUI companion app for RomdoulMC server status via mcsrvstat.us API                                                 |
-|🔦 **BLINKER**                                                           |Minimal flashlight utility for iOS                                                                                     |
+---
 
-</div>
+## Contributions
 
------
+Contributing Khmer language translations to [Prism Launcher](https://prismlauncher.org/).
 
-## `> cat skills.txt`
-
-<div align="center">
-
-![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![OpenCore](https://img.shields.io/badge/OpenCore-000000?style=flat-square&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-</div>
-
------
-
-## `> cat contributions.txt`
-
-<div align="center">
-
-**Open Source Contributions**
-
-<a href="https://hosted.weblate.org/engage/prismlauncher/"><img src="https://hosted.weblate.org/widget/prismlauncher/launcher/km/svg-badge.svg" alt="Prism Launcher Khmer (Central Language) Translation Status"></a>
-
-> Contributing Khmer language translations to [Prism Launcher](https://prismlauncher.org/)
-
-</div>
-
------
-
-## `> gh stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thenullastris&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=CC2222&icon_color=CC2222&title_color=ffffff&text_color=888888&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenullastris&layout=compact&theme=dark&bg_color=0d0d0d&border_color=CC2222&title_color=ffffff&text_color=888888&hide_border=false" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=thenullastris&theme=dark&background=0d0d0d&border=CC2222&stroke=CC2222&ring=CC2222&fire=ff4444&currStreakNum=ffffff&sideNums=888888&currStreakLabel=Current%20Streak&sideLabels=Longest%20Streak" />
-
-</div>
-
------
-
-## `> cat activity.log`
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thenullastris&bg_color=0d0d0d&color=CC2222&line=CC2222&point=ffffff&area=true&area_color=1a0505&hide_border=false&custom_title=Contribution%20Activity)](https://github.com/thenullastris)
-
-</div>
-
------
+---
 
 <div align="center">
 
@@ -123,8 +48,6 @@
 // "The void stares back, but I keep shipping anyway."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a1a,100:0d0d0d&height=100&section=footer&reversal=false" width="100%" />
-
-*© KhinPhunnadet · TheNullAstris · Cambodia*
+© KhinPhunnadet · TheNullAstris
 
 </div>
