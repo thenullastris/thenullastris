@@ -38,6 +38,12 @@ Solo iOS developer building mobile experiences. Focused on Minecraft launchers a
 
 ## Contributions
 
+<div align="center">
+
+<a href="https://hosted.weblate.org/engage/prismlauncher/"><img src="https://hosted.weblate.org/widget/prismlauncher/launcher/km/svg-badge.svg" alt="Prism Launcher Khmer Translation" /></a>
+
+</div>
+
 Contributing Khmer language translations to [Prism Launcher](https://prismlauncher.org/).
 
 ---
