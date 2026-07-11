@@ -22,9 +22,7 @@ Solo iOS developer building mobile experiences. Focused on Minecraft launchers a
 
 | Project | Tech | Status |
 |---------|------|--------|
-| **[Zenith Launcher](https://github.com/thenullastris/Zenith-Launcher)** | Swift, SwiftUI | 🚀 Active |
-| **RomdoulMC Status** | Swift, SwiftUI | Companion app |
-| **BLINKER** | Swift | Minimal flashlight |
+| **[Zenith Launcher](https://github.com/thenullastris/Zenith-Launcher)** | Objective-C | 🚀 Active |
 
 ---
 
