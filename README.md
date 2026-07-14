@@ -18,14 +18,6 @@ Solo iOS developer building mobile experiences. Focused on Minecraft launchers a
 
 ---
 
-## Projects
-
-| Project | Tech | Status |
-|---------|------|--------|
-| **[Zenith Launcher](https://github.com/thenullastris/Zenith-Launcher)** | Objective-C | 🚀 Active |
-
----
-
 ## Tech Stack
 
 **Languages:** Swift · Objective-C · Java · Python · C++
