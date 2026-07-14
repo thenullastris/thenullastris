@@ -14,8 +14,6 @@
 
 Solo iOS developer building mobile experiences. Focused on Minecraft launchers and innovative tooling. Based in **Phnom Penh, Cambodia**.
 
-> *I build launchers, break configs, and ship it all.*
-
 ---
 
 ## Tech Stack
