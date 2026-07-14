@@ -3,9 +3,6 @@
 # TheNullAstris
 
 **iOS Developer · Minecraft Enthusiast · Creator**
-
-[Website](https://drevenant7.site) · [TikTok](https://tiktok.com/@TheNullAstris) · [GitHub](https://github.com/thenullastris)
-
 </div>
 
 ---
