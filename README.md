@@ -22,8 +22,6 @@ Solo iOS developer building mobile experiences. Focused on Minecraft launchers a
 
 **Languages:** Swift · Objective-C · Java · Python · C++
 
-**Tools:** Xcode · GitHub Actions · Figma · Linux · Arduino
-
 ---
 
 ## Contributions
