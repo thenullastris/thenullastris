@@ -19,6 +19,20 @@ Solo iOS developer building mobile experiences. Focused on Minecraft launchers a
 
 ---
 
+## Projects
+
+### Zenith Launcher+
+A powerful and feature-rich Minecraft launcher for iOS, designed with a focus on performance, customization, and user experience. Zenith Launcher+ provides seamless access to multiple Minecraft versions and modded instances with an intuitive interface.
+
+**Features:**
+- Multi-version instance management
+- Optimized performance and resource efficiency
+- Custom modpack support
+- Clean, modern iOS interface
+- Account management and authentication
+
+---
+
 ## Contributions
 
 <div align="center">
