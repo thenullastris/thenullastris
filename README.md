@@ -31,6 +31,16 @@ A powerful and feature-rich Minecraft launcher for iOS, designed with a focus on
 - Clean, modern iOS interface
 - Account management and authentication
 
+### SideInstaller
+A streamlined iOS app installer utility for sideloading and managing applications. SideInstaller simplifies the process of installing IPA files on iOS devices with an elegant, user-friendly design.
+
+**Features:**
+- Direct IPA file installation
+- Device management and monitoring
+- Installation history tracking
+- Fast and reliable deployment
+- Intuitive app organization
+
 ---
 
 ## Contributions
