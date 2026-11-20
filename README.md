@@ -1,66 +1,11 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/thenullastris">
+    <img src="card.svg" width="400" />
+  </a>
+</p>
 
-# TheNullAstris
-
-**iOS Developer · Minecraft Enthusiast · Creator**
-</div>
-
----
-
-## About
-
-Solo iOS developer building mobile experiences. Focused on Minecraft launchers and innovative tooling. Based in **Phnom Penh, Cambodia**.
-
----
-
-## Tech Stack
-
-**Languages:** Swift · Objective-C · Java · Python · C++
-
----
-
-## Projects
-
-### Zenith Launcher+
-A powerful and feature-rich Minecraft launcher for iOS, designed with a focus on performance, customization, and user experience. Zenith Launcher+ provides seamless access to multiple Minecraft versions and modded instances with an intuitive interface.
-
-**Features:**
-- Multi-version instance management
-- Optimized performance and resource efficiency
-- Custom modpack support
-- Clean, modern iOS interface
-- Account management and authentication
-
-### SideInstaller
-A streamlined iOS app installer utility for sideloading and managing applications. SideInstaller simplifies the process of installing IPA files on iOS devices with an elegant, user-friendly design.
-
-**Features:**
-- Direct IPA file installation
-- Device management and monitoring
-- Installation history tracking
-- Fast and reliable deployment
-- Intuitive app organization
-
----
-
-## Contributions
-
-<div align="center">
-
-<a href="https://hosted.weblate.org/engage/prismlauncher/"><img src="https://hosted.weblate.org/widget/prismlauncher/launcher/km/svg-badge.svg" alt="Prism Launcher Khmer Translation" /></a>
-
-</div>
-
-Contributing Khmer language translations to [Prism Launcher](https://prismlauncher.org/).
-
----
-
-<div align="center">
-
-```
-// "The void stares back, but I keep shipping anyway."
-```
-
-© KhinPhunnadet · TheNullAstris
-
-</div>
+<p align="center">
+  <a href="https://youtube.com/@TheNullAstris"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/Yamada_Senpai"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/thenullastris"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
